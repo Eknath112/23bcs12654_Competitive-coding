@@ -99,8 +99,8 @@ str1 = "abac", str2 = "cab"
 
 ## Complexity
 
-- **Time**: \(O(n \cdot m)\) for DP table.  
-- **Space**: \(O(n \cdot m)\) (can be optimized to \(O(\min(n,m))\) if needed).  
+- **Time**: `O(n*m)` for DP table.  
+- **Space**: `O(n*m)` (can be optimized to `(O(min(n,m)))` if needed).  
 
 ---
 
