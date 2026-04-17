@@ -35,7 +35,7 @@ We are asked to determine if there exists a permutation of the alphabet such tha
 -Otherwise, print the resulting order.
 
 ### Code (C++)
-cpp
+```cpp
     #include <bits/stdc++.h>
     using namespace std;
     int main() {
@@ -81,6 +81,7 @@ cpp
         }
         return 0;
     }
+```
 
 #### Walkthrough
 Input:
