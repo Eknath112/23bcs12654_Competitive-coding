@@ -62,7 +62,7 @@ int main() {
 
 ---
 
-## 📝 Example Walkthrough
+## Example Walkthrough
 
 Input:
 ```
@@ -76,7 +76,7 @@ arr = [1,15,7,9,2,5,10], k = 3
 
 ---
 
-## ⚡ Complexity
+## Complexity
 
 - **Time**: \(O(n \cdot k)\) since for each index we check up to `k` lengths.  
 - **Space**: \(O(n)\) for the DP array.
